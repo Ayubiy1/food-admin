@@ -1,0 +1,174 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "O’zingiz tanlang",
+      "nameRu": "Tayyor taomlar",
+      "nameEng": "Tayyor taomlar",
+      "img": "http://ich.uz/images/Domains/Domain_3/Palow_medium.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Tayyor taomlar",
+      "nameRu": "Tayyor taomlar",
+      "nameEng": "Tayyor taomlar",
+      "img": "http://ich.uz/images/Domains/Domain_3/Palow_medium.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Salatlar",
+      "nameRu": "Tayyor taomlar",
+      "nameEng": "Tayyor taomlar",
+      "img": "http://ich.uz/images/Domains/Domain_3/Palow_medium.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Non va shirinliklar",
+      "nameRu": "Tayyor taomlar",
+      "nameEng": "Tayyor taomlar",
+      "img": "http://ich.uz/images/Domains/Domain_3/Palow_medium.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Ichimliklar",
+      "nameRu": "Tayyor taomlar",
+      "nameEng": "Tayyor taomlar",
+      "img": "http://ich.uz/images/Domains/Domain_3/Palow_medium.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Tayyor set",
+      "nameRu": "Tayyor taomlar",
+      "nameEng": "Tayyor taomlar",
+      "img": "http://ich.uz/images/Domains/Domain_3/Palow_medium.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 3,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 11,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 12,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 13,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 14,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 16,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 17,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 18,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 19,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    },
+    {
+      "id": 20,
+      "categoryId": 2,
+      "name": "Seafood Salad",
+      "kcal": 700,
+      "price": 25000
+    }
+  ]
+}
