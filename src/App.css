@@ -1,3 +1,7 @@
+::-webkit-scrollbar {
+  width: 0;
+}
+
 .App {
   text-align: center;
 }
@@ -26,6 +30,15 @@
 
 .App-link {
   color: #61dafb;
+}
+.search {
+  display: none;
+}
+
+@media screen and (min-width: 646px) {
+  .search {
+    display: block;
+  }
 }
 
 @keyframes App-logo-spin {

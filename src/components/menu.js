@@ -84,9 +84,7 @@ const App = () => {
             background: colorBgContainer,
             borderRadius: borderRadiusLG,
           }}
-        >
-          Content
-        </Content>
+        ></Content>
       </Layout>
     </Layout>
   );

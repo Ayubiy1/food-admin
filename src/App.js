@@ -54,7 +54,7 @@ const App = () => {
               icon: <BiDish />,
               label: "Menu",
               onClick: (label) => {
-                navigator("/menu");
+                navigator("/menu/categories");
                 setActiveMenu(+label?.key);
               },
             },
@@ -132,6 +132,7 @@ const App = () => {
             margin: "24px 16px",
             padding: 24,
             minHeight: 280,
+            overflowY: "scroll",
           }}
         >
           <ContantComp />

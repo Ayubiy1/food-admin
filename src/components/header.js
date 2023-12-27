@@ -8,15 +8,6 @@ import { FaRegClock } from "react-icons/fa6";
 
 const { Search } = Input;
 
-const suffix = (
-  <AudioOutlined
-    style={{
-      fontSize: 16,
-      color: "#1677ff",
-    }}
-  />
-);
-
 const onSearch = (value, _e, info) => console.log(info?.source, value);
 
 const HeaderComponent = () => {
@@ -46,6 +37,7 @@ const HeaderComponent = () => {
             placeholder="input search text"
             onSearch={onSearch}
             enterButton
+            className="search"
           />
         </div>
       </div>

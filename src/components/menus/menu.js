@@ -1,5 +1,5 @@
 import "../../App.css";
-import Cards from "../cards/cards";
+import Cards from "../categories/cards";
 
 const MenuComp = () => {
   return (
